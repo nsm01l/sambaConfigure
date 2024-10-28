@@ -1,0 +1,2 @@
+# sambaConfigure
+Sambaの共有フォルダーの設定ファイルを作る
